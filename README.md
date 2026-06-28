@@ -51,3 +51,6 @@ Free CLI is MIT licensed. Built by [AkuchiS](https://fp.akuchis.com/?src=github)
 Want a maintained version, or have an objection? Tell us what would stop you using
 it: https://fp.akuchis.com/?src=github
 
+---
+
+<sub>More AkuchiS tools → [github.akuchis.com](https://github.akuchis.com)</sub>
